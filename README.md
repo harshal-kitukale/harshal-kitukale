@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[https://img.shields.io/static/v1?label=React&message=react&color=sky]
+https://img.shields.io/static/v1?label=React&message=react&color=sky
 
 <!---
 harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
