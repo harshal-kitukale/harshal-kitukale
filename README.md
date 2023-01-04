@@ -66,14 +66,18 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="harshal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshal-kitukale&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+<div>
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: 100%;">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kitukale-258273185) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tushit84308444) 
+</div>    
+
 
 <!-- ************************************************************************ -->
 
