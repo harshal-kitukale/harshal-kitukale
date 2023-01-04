@@ -1,4 +1,8 @@
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
+</p>
+
 - 👋 Hi, I’m @harshal-kitukale
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -30,6 +34,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
    </p>
 </div>
+<br/>
+<br/>
 
 <!-- ******************************************************************************** -->
 <!-- ************************************************************************ -->
@@ -55,13 +61,27 @@ You can click the Preview link to take a look at your changes.
     </div> 
 <!-- ************************************************************************ -->
 
+<!-- ************************************************************************ -->
+<!-- activity graph -->
+</div>
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+
+
+<br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kitukale-258273185) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tushit84308444) 
+
+<!-- ************************************************************************ -->
+
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
        alt="snake" />
 </div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
-
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&amp;color=green&amp;size=5&amp;lines=👨🏻‍💻;" style="width: 100%;">
 <div>
 
 <img align="center" src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg' />
@@ -72,6 +92,14 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 </div>
+
+
+<img
+  align="right"
+  width="500"
+  alt="Profile data, generated with yoshi389111/github-profile-3d-contrib"
+  src="https://raw.githubusercontent.com/harshal-kitukale/harshal-kitukale/master/profile-3d-contrib/profile-gitblock.svg"
+/>
 
 
 
