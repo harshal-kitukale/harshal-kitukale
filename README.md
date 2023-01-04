@@ -40,14 +40,6 @@ You can click the Preview link to take a look at your changes.
    </p>
 </div>
 <br/>
-<!-- grid-snake  -->
-<div>
- <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
-
- </div>
- ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
-<!-- ************************************************************************ -->
-
 
 <!-- ******************************************************************************** -->
 <!-- ************************************************************************ -->
@@ -94,6 +86,14 @@ You can click the Preview link to take a look at your changes.
 <!-- ************************************************************************ -->
 <br/>
 <!-- ************************************************************************ -->
+<!-- grid-snake  -->
+<div>
+ <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
+
+ </div>
+<!--  ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ************************************************************************ -->
+
 
 <br/>
   <div align="center">
