@@ -10,13 +10,15 @@ harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-    ![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)(https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)](https://git.io/streak-stats)
+    <img  src="https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark"
+       alt="streak" />
 </div>
 
 
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
