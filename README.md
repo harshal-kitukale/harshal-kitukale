@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
    </p>
 </div>
 <br/>
+![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ******************************************************************************** -->
 <!-- ************************************************************************ -->
@@ -86,13 +87,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ************************************************************************ -->
 <br/>
 <!-- ************************************************************************ -->
-<!-- grid-snake  -->
-<div align="center">
-    <img  src="https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" />
-</div>
-![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
-<!-- ************************************************************************ -->
+
 <br/>
   <div align="center">
  <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>
