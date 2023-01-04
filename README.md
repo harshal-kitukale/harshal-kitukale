@@ -65,8 +65,10 @@ You can click the Preview link to take a look at your changes.
 <!-- activity graph -->
 <div align="center">
     <h2>⚡Activity Graph</h2>
-    <img alt="harshal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshal-kitukale&theme=react- dark&hide_border=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshal-kitukale&theme=react-dark&hide_border=true" alt="harshal Activity Graph" />
 </div>    
+<!-- ************************************************************************ -->
+<!-- Connect with me -->
 <br> 
 <div align="center">
   <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
