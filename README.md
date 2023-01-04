@@ -71,8 +71,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Connect with me -->
 <br> 
 <div align="center">
-  <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-    <a href="https://www.linkedin.com/in/harshal-kitukale-258273185">
+  <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+    <a href="harshalkitukale005@gmail.com">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:100px; height:30px">
     </a>
     <a>
