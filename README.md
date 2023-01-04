@@ -7,11 +7,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
 </p>
 
-- 👋 Hi, I’m @harshal-kitukale
+<p align='center' style='margin: 16px 4px 8px;'>
+    Dedicated and passionate full-stack web developer with hands-on experience building websites with MERN stack. Curious to learn about emerging web technologies and looking for an opportunity to contribute significantly to an organization through dedicated effort.
+</p>
+
+<!-- - 👋 Hi, I’m @harshal-kitukale
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
