@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width: 10%;">
     </a>
     <a href="https://www.linkedin.com/in/harshal-kitukale-258273185">
-        <img src="https://img.shields.io/badge/G-mail-%230077B5.svg?logo=linkedin&logoColor=white" style="width: 10%;">
+        <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white" style="width: 10%;">
     </a>
      
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kitukale-258273185) 
