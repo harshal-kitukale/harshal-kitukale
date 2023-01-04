@@ -82,22 +82,18 @@ You can click the Preview link to take a look at your changes.
     </a>
 </div> 
    
-
-<br/>
 <!-- ************************************************************************ -->
+<br/>
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
        alt="snake" />
-<img align="center" src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg' />
+     <img align="center" src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg' />
 
 </div>
 <br/>
 <div>
-
-<img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-
+   <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
-
 
 <img
   align="right"
