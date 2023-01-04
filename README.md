@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <div align="center">
     <h2>🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=harshal-kitukale&theme=react&no-frame=true&no-bg=false&margin-w=4" alt="harshal trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harshal-kitukale&theme=react&no-frame=true&no-bg=true&margin-w=6" alt="harshal trophies" />
 </div>
 
 <!-- ************************************************************************ -->
