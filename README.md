@@ -9,8 +9,10 @@
 harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
