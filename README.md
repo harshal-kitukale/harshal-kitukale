@@ -22,8 +22,17 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+
+<div>
+
+<img align="center" src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg' />
+
+</div>
 <div>
 
 <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 </div>
+
+
+
