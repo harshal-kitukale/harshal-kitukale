@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   
    <div align="center">
 <!--     [![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)](https://git.io/streak-stats) -->
-    <img  src="https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark"
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-kitukale&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
        alt="streak" />
 </div>
 
