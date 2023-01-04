@@ -91,16 +91,10 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <br/>
-<div>
-   <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<div align="center>
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png'  />
 </div>
 
-<img
-  align="right"
-  width="500"
-  alt="Profile data, generated with yoshi389111/github-profile-3d-contrib"
-  src="https://raw.githubusercontent.com/harshal-kitukale/harshal-kitukale/master/profile-3d-contrib/profile-gitblock.svg"
-/>
 
 
 
