@@ -84,13 +84,13 @@ You can click the Preview link to take a look at your changes.
 <!-- ************************************************************************ -->
 <!-- grid-snake  -->
 <div align="center">
-    <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
+    <img  src="https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"
        alt="snake" />
      <img src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg'  />
-
+![Snake animation](https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
 </div>
 <br/>
-  ![Snake animation](https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
+  
 
 
 
