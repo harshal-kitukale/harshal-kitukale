@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <br/>
-<h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
@@ -41,9 +41,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 <!-- grid-snake  -->
-<p>
+<div>
+ <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
 ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
- </p>
+ </div>
 <!-- ************************************************************************ -->
 
 
