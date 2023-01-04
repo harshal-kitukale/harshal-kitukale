@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 <!-- ******************************************************************************** -->
 
 <div align="center">
-   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+    <br/>
 <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
@@ -34,7 +35,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
    </p>
 </div>
-<br/>
 <br/>
 
 <!-- ******************************************************************************** -->
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Connect with me -->
 <br> 
 <div align="center">
-  <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
     <a href="https://www.linkedin.com/in/harshal-kitukale-258273185">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:300px height = 300px">
     </a>
