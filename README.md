@@ -9,7 +9,6 @@
 
 <h1 align='center'>Dedicated and passionate full-stack web developer with hands-on experience building websites with MERN stack. Curious to learn about emerging web technologies and looking for an opportunity to contribute significantly to an organization through dedicated effort.</h1>
 
-<p style="color:red">jbjhasxs</p>
 <!-- - 👋 Hi, I’m @harshal-kitukale
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -86,8 +85,15 @@ You can click the Preview link to take a look at your changes.
        <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red" style="width:100px; height:30px">
     </a>
 </div>   
+
 <!-- ************************************************************************ -->
+<!-- Trophies -->
 <br/>
+<div align="center">
+    <h2>🏆 GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=harshal-kitukale&theme=react&no-frame=true&no-bg=true&margin-w=4" alt="harshal trophies" />
+</div>
+
 <!-- ************************************************************************ -->
 <!-- grid-snake  -->
 <div align="center">
