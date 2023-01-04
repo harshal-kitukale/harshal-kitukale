@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <br/>
   <div align="center">
-       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-kitukale&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-kitukale&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&width=600px height=200px"
           alt="lan" />
     </div> 
 <!-- ************************************************************************ -->
