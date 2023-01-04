@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <img  src="https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark"
        alt="streak" />
 </div>
-************************************************************************
+<!-- ************************************************************************ -->
 <!-- github states -->
 
 <h2 align="center">📊 My Github Stats</h2>
@@ -23,18 +23,19 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Top Languages" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true" /></a>
       </p>   
      <br/>
-   <p align="center">
-    <a href="https://github.com/shiavmsherje/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivamsherje streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
+  
+   <div align="center">
+<!--     [![GitHub Streak](https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark)](https://git.io/streak-stats) -->
+    <img  src="https://streak-stats.demolab.com?user=harshal-kitukale&theme=dark"
+       alt="streak" />
+</div>
 
   <br/>
   <br/>
     <p align="center">                                                                                                 
     <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="sanuatmasai" /></a>
     </p>    
-************************************************************************
+<!-- ************************************************************************ -->
 
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/read-me-content/blob/main/grid-snake.svg"
