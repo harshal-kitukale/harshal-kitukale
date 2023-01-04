@@ -40,7 +40,12 @@ You can click the Preview link to take a look at your changes.
    </p>
 </div>
 <br/>
+<!-- grid-snake  -->
+<p>
 ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
+ </p>
+<!-- ************************************************************************ -->
+
 
 <!-- ******************************************************************************** -->
 <!-- ************************************************************************ -->
