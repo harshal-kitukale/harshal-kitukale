@@ -30,10 +30,7 @@ You can click the Preview link to take a look at your changes.
   <div align="center">
        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-kitukale&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           alt="lan" />
-    </div>
-    <p align="center">                                                                                                 
-    <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="sanuatmasai" /></a>
-    </p>    
+    </div> 
 <!-- ************************************************************************ -->
 
 <div align="center">
