@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Harshal&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Harshal&widtht=120"/>
 <!--   <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Harshal🌻</h1> -->
 </div>
 
