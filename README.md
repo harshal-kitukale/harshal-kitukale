@@ -90,9 +90,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"
        alt="snake" />
-    
-![Snake animation](https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
+<!-- ************************************************************************ -->
 <br/>
   <div align="center">
  <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>
