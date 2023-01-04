@@ -90,12 +90,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img  src="https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"
        alt="snake" />
-     <img src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg'  />
+    
 ![Snake animation](https://github.com/harshal-kitukale/blob/output/github-contribution-grid-snake.svg)
 </div>
 <br/>
   <div align="center">
- <h1><img src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I'm%20Harshal!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>cdscdscsdc</h1>
+ <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>
 <!--   <img src='https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg'  /> -->
 <!--   <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Harshal🌻</h1> -->
 </div>
