@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- ******************************************************************************** -->
 
-<div>
+<div align="center">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
@@ -72,7 +72,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <br> 
-
+<div align="center">
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+    <a href="https://www.linkedin.com/in/harshal-kitukale-258273185">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:200px height = 200px">
+    </a>
+    <a>
+       <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red" style="width:200px height = 200px">
+    </a>
+</div> 
    
 
 <br/>
