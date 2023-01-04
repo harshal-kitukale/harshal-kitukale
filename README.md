@@ -9,6 +9,14 @@
 harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- ******************************************************************************** -->
+
+<div>
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
+<h2 align="center">🧑🏻‍💻 Languages and Tools:</h2>
+</div>
+
+<!-- ******************************************************************************** -->
 <!-- ************************************************************************ -->
 <!-- github states -->
 
