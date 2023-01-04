@@ -87,14 +87,16 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <!-- ************************************************************************ -->
 <!-- grid-snake  -->
-<div>
+<div align="center">
  <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
 
  </div>
 <!--  ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ************************************************************************ -->
-
-
+<!-- ************************************************************************ -->
+<!-- colored-line img -->
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ <!-- ************************************************************************ -->
 <br/>
   <div align="center">
  <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!🕹️&animation=fadeIn&type=waving&color=gradient&section=footer&height=100"/>
