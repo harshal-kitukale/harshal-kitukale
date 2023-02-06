@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
        <img src="https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=red" style="width:100px; height:30px">
     </a>
 </div>   
-[user@example.com](mailto:harshalkitukale005@gmail.com)
+<[user@example.com](mailto:harshalkitukale005@gmail.com)>
 
 
 <!-- ************************************************************************ -->
