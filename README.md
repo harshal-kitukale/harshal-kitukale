@@ -20,6 +20,10 @@ harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ******************************************************************************** -->
+<div align="center">
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ <h1> Know More ABout Me :- </h1>
+ </div>
 
 <div align="center">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
