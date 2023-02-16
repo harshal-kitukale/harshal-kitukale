@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
 <!-- ******************************************************************************** -->
 <!-- Portfolio -->
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
- <img  style="margin-top:200px;" align="right" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" >
+ <img align="right" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250" width="300px" align="right" >
+ <br/>
+ <br/>
  <br/>
  <br/>
 <div align="left">    
