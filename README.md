@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 <!-- ******************************************************************************** -->
 <div align="center">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
- <h1> Know More ABout Me :- </h1>
+ <h1> Know More ABout Me :- <a href="https://harshal-kitukale.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a> </h1>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  </div>
 
 <div align="center">
-   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <br/>
     <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
