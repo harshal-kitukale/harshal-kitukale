@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Portfolio -->
 <div align="center">
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
- <h2> To Know More About Me :- <a href="[https://harshal-kitukale.github.io/](https://harshal-kitukale.github.io/)"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a> </h2>
+ <h2> To Know More About Me :- <a href="https://harshal-kitukale.github.io"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a> </h2>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  </div>
 <!-- ****************************************************** -->
