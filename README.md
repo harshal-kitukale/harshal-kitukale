@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 <!-- grid-snake  -->
 <div align="center">
  <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
-<!-- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  </div>
 <!--  ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ************************************************************************ -->
