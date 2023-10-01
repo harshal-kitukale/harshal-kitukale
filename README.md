@@ -76,12 +76,11 @@ You can click the Preview link to take a look at your changes.
           alt="lan" />
     </div> 
 <!-- ************************************************************************ -->
-
 <!-- ************************************************************************ -->
 <!-- activity graph -->
 <div align="center">
     <h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshal-kitukale&theme=react-dark&hide_border=true" alt="harshal Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-kitukale&theme=react-dark&hide_border=true" alt="harshal Activity Graph" />
 </div>    
 <!-- ************************************************************************ -->
 <!-- Connect with me -->
