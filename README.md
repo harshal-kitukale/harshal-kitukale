@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <!--    <a href="https://harshal-kitukale.github.io/">link</a> -->
 <div >
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"/> 
- <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"/><sapn>To Know More About Me :-</sapn> <a href="https://harshal-kitukale.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a></h3>
+ <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"/><span>To Know More About Me :-</span> <a href="https://harshal-kitukale.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a></h3>
 </div>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!-- ****************************************************** -->
