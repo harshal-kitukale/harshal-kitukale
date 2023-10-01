@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ******************************************************************************** -->
 <!-- Portfolio -->
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
- <img class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250" width="300px" align="right" >
+ 
  <br/>
  <br/>
  <br/>
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <div>
  <h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"/>To Know More About Me :- <a href="https://harshal-kitukale.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a></h3>
 </div>
-<!--  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!-- ****************************************************** -->
 <div align="center">
 <!--     <br/> -->
